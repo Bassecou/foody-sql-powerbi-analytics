@@ -16,9 +16,8 @@ Projet pédagogique combinant modélisation de base de données SQL et rapport P
 
 ### 📄 Rapport Power BI
 
-![Foody — Synthèse Globale](assets/foody_rapport.jpg)
-
-[Consulter le rapport complet (PDF, 3 pages)](Foody_Rapport.pdf) — Synthèse Globale, Performance Commerciale, Suivi Logistique
+[Foody Rapport.pdf](https://github.com/user-attachments/files/32559744/Foody.Rapport.pdf)
+ — Synthèse Globale, Performance Commerciale, Suivi Logistique
 
 ## Démarche
 
