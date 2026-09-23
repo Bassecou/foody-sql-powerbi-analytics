@@ -1,6 +1,6 @@
 # 🍽️ Foody — Analyse Commerciale & Logistique
 
-Projet pédagogique combinant modélisation de base de données SQL et dashboard Power BI, pour une société fictive d'import-export alimentaire.
+Projet pédagogique combinant modélisation de base de données SQL et rapport Power BI, pour une société fictive d'import-export alimentaire.
 
 ## Contexte
 
@@ -10,15 +10,15 @@ Projet pédagogique combinant modélisation de base de données SQL et dashboard
 
 - Construire une base de données relationnelle propre à partir de 8 fichiers sources bruts
 - Interroger les données en SQL pour en extraire les premiers constats
-- Formuler une problématique business et y répondre par un dashboard Power BI
+- Formuler une problématique business et y répondre par un rapport Power BI
 
 ## Livrable
 
-### 📊 Dashboard Power BI
+### 📄 Rapport Power BI
 
-![Foody — Synthèse Globale](assets/foody_dashboard.jpg)
+![Foody — Synthèse Globale](assets/foody_rapport.jpg)
 
-[Consulter le dashboard complet (PDF, 3 pages)](Foody_Dashboard.pdf) — Synthèse Globale, Performance Commerciale, Suivi Logistique
+[Consulter le rapport complet (PDF, 3 pages)](Foody_Rapport.pdf) — Synthèse Globale, Performance Commerciale, Suivi Logistique
 
 ## Démarche
 
@@ -26,15 +26,15 @@ Projet pédagogique combinant modélisation de base de données SQL et dashboard
 2. **Requêtage SQL** — 6 modules progressifs sous SQLite : requêtage simple, calculs et fonctions, agrégats, jointures, sous-requêtes, opérations ensemblistes (UNION/INTERSECT/EXCEPT)
 3. **Nettoyage et exploration sous Power Query** — typage des colonnes, gestion des valeurs manquantes, relations entre tables
 4. **Définition de la problématique** — formulation d'une question business à partir des tendances observées, structurée via un strategy canvas
-5. **Construction du dashboard** — 3 pages répondant à la problématique : vue d'ensemble commerciale, performance par employé, suivi des délais et retards de livraison
+5. **Construction du rapport** — 3 pages répondant à la problématique : vue d'ensemble commerciale, performance par employé, suivi des délais et retards de livraison
 
 ## Ce que j'en retiens
 
-Le SQL et le Power BI ne sont pas deux blocs indépendants : la rigueur du requêtage (jointures, agrégats) éclaire directement les indicateurs à mettre en dashboard, et permet de vérifier chaque chiffre affiché avant de le présenter à un public métier.
+Le SQL et le Power BI ne sont pas deux blocs indépendants : la rigueur du requêtage (jointures, agrégats) éclaire directement les indicateurs à mettre en rapport, et permet de vérifier chaque chiffre affiché avant de le présenter à un public métier.
 
 ## Compétences mobilisées
 
-SQL (SQLite : jointures, sous-requêtes, agrégats, opérations ensemblistes) · Modélisation de données (MPD) · Power BI (Power Query, dashboard multi-pages) · Définition de problématique business
+SQL (SQLite : jointures, sous-requêtes, agrégats, opérations ensemblistes) · Modélisation de données (MPD) · Power BI (Power Query, rapport multi-pages) · Définition de problématique business
 
 ## Auteur
 
